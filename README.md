@@ -1,5 +1,5 @@
 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/shreekarpatel/GreatKart-Ecommerce_website/main/multikart/static/images/logo.png">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/shreekarpatel/Multikart-Ecommerce_website/main/multikart/static/images/logo2.png">
 
 
 
@@ -12,7 +12,7 @@ The "Multikart" is an E-commerce web application that consists of a wide range o
 
 # Hi, I'm Shreekar! 👋
 
-I learn how to build an E-commerce and give some of my touches to a project called "Great Kart" an interactive and user-friendly web application.
+I learn how to build an E-commerce and give some of my touches to a project called "Multi Kart" an interactive and user-friendly web application.
 
 The features are uncountable.
 
